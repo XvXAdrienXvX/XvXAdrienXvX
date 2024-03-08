@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :zap: I love programming and game engineering
-- :man_technologist: Experience in software engineering & Test automation
+- :man_technologist: Experience in software engineering
 - :seedling: In my free time I do research on programming techniques & game development
 - :video_game: I love playing RPG games
