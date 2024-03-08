@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :man_technologist: Experience in software engineering
-- :seedling: In my free time I do research on programming techniques & game development
+- :seedling: Enjoy developing side projects
 - :video_game: I love playing RPG games
