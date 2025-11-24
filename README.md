@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 - :man_technologist: Experience in software engineering
 - :seedling: Enjoy developing side projects
-- :video_game: I love playing RPG games
